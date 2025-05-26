@@ -1,5 +1,6 @@
-# jovian_testing_flask-
+# Revolutio Frontend 
 
+build for API testing
 
 the idea is to quickly build up a client so that i can interact 
 with the docker testing that we need to build in case 
